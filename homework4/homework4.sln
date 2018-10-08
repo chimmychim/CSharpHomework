@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework4", "homework4\homework4.csproj", "{2CEF89BA-68CC-49BE-8D5D-9A100A8BD062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program1", "program1\program1.csproj", "{F86A4E11-1645-4214-99C6-5A3092314DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program2", "program2\program2.csproj", "{C755D1F1-71FB-44A5-8283-A7F8CC7E3CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEF89BA-68CC-49BE-8D5D-9A100A8BD062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEF89BA-68CC-49BE-8D5D-9A100A8BD062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEF89BA-68CC-49BE-8D5D-9A100A8BD062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEF89BA-68CC-49BE-8D5D-9A100A8BD062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86A4E11-1645-4214-99C6-5A3092314DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A4E11-1645-4214-99C6-5A3092314DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A4E11-1645-4214-99C6-5A3092314DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A4E11-1645-4214-99C6-5A3092314DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C755D1F1-71FB-44A5-8283-A7F8CC7E3CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C755D1F1-71FB-44A5-8283-A7F8CC7E3CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C755D1F1-71FB-44A5-8283-A7F8CC7E3CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C755D1F1-71FB-44A5-8283-A7F8CC7E3CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
